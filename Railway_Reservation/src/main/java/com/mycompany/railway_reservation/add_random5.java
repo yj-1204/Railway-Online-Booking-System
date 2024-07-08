@@ -8,7 +8,7 @@ package com.mycompany.railway_reservation;
  *
  * @author hp
  */
-public class add_random5 extends javax.swing.JFrame {
+public class add_random5 extends javax.swing.JFrame{
 
     /**
      * Creates new form add_random5
